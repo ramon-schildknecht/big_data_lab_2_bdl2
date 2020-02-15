@@ -5,4 +5,6 @@ One can get an idea from the file *Zeppelin-Bericht Schritt-für-Schritt Ramon S
 Fast readers get an idea from the file *Management Summary.pdf*.
 All results can be furthermore explored within the *Zeppelin_Report_Rohdatei.json* file. One just needs to import it into Zeppelin.
 
+*Hint: The documentation is mostly in German because this was a requirement from the lecturers.*
+
 This repo stores the necessary documenting pictures for the project, too. These files can be found in the *pictures* folder.
